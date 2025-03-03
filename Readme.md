@@ -1,4 +1,4 @@
-##Scala Assignment Overview
+#Scala Assignment Overview
 
 This repository contains multiple Scala assignments designed to enhance your understanding of Scala programming concepts. Each assignment is structured with code files and relevant instructions.
 
